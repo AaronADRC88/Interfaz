@@ -29,7 +29,7 @@
           </packing>
         </child>
         <child>
-          <object class="GtkEntry" id="txtCadroTexto">
+          <object class="GtkEntry" id="txtCadro">
             <property name="visible">True</property>
             <property name="can_focus">True</property>
             <signal name="activate" handler="on_txtCadro_activate" swapped="no"/>
